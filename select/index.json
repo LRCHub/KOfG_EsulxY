@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Waltz for Lily",
+  "base_artist": "King & Prince",
+  "createdAt": "2026-03-23T04:30:25.547932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waltz for George",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/01_Waltz_for_George_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waltz For Richard",
+      "artist": "First Aid Kit",
+      "has_synced": false,
+      "path": "select/02_Waltz_For_Richard_First_Aid_Kit.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waltz For Koop - Feat. Cecilia Stalin",
+      "artist": "Koop",
+      "has_synced": true,
+      "path": "select/03_Waltz_For_Koop_-_Feat._Cecilia_Stalin_Koop.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Waltz For Pony",
+      "artist": "Boy",
+      "has_synced": true,
+      "path": "select/04_Waltz_For_Pony_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Waltz for Eva and Che",
+      "artist": "Antonio Banderas feat. Madonna",
+      "has_synced": true,
+      "path": "select/05_Waltz_for_Eva_and_Che_Antonio_Banderas_feat._Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waltz for Eva and Che",
+      "artist": "Madonna & Antonio Banderas",
+      "has_synced": true,
+      "path": "select/06_Waltz_for_Eva_and_Che_Madonna_&_Antonio_Banderas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waltz for Eva and Che",
+      "artist": "Madonna, Antonio Banderas",
+      "has_synced": true,
+      "path": "select/07_Waltz_for_Eva_and_Che_Madonna,_Antonio_Banderas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Waltz for Debby",
+      "artist": "Al Jarreau",
+      "has_synced": false,
+      "path": "select/08_Waltz_for_Debby_Al_Jarreau.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Waltz for Lily",
+      "artist": "King & Prince",
+      "has_synced": false,
+      "path": "select/pl_01_Waltz_for_Lily_King_&_Prince.txt"
+    }
+  ]
+}
